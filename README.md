@@ -6,5 +6,5 @@ This occurs when you consume more calories (energy) than your body expends throu
 # Caloric Deficit:
 Conversely, a caloric deficit happens when you burn more calories than you consume. In this state, your body taps into its stored energy reserves (such as fat stores) to make up for the energy shortfall. This typically results in weight loss.
 
-#Maintenance:
+# Maintenance:
 Maintenance refers to the state where the number of calories consumed equals the number of calories expended, resulting in weight maintenance. In this state, there is neither a surplus nor a deficit of calories, and body weight remains stable.
